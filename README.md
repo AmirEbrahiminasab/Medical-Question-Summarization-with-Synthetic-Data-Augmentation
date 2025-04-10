@@ -1,0 +1,2 @@
+# Medical-Question-Summarization-with-Synthetic-Data-Augmentation
+This project addresses the challenge of improving healthcare question summarization using synthetic data augmentation. By leveraging **Round-Trip Translation (RTT)** and advanced selection techniques (**FQD**, **PRQD**, and **QSV**), we generate diverse question paraphrases to enhance summarization model performance in low-resource settings.
